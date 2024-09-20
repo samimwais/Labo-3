@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    padding: 32px;
+}
+table, td, th{
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    margin: auto; 
+    padding-left: 32px;
+    padding-right: 32px;
+}
+td{
+    text-align: center;
+}
+body {
+    background-color: beige;
+}

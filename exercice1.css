@@ -1,0 +1,13 @@
+h2{
+    text-align: center;
+    padding: 64px;
+}
+table, td, tr{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    width: 250px;
+    height: 80px;
+    margin: auto; 
+}
