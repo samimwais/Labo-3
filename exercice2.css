@@ -24,3 +24,10 @@ h1 {
     font-weight: bold; 
     font-style: italic; 
 }
+tr:nth-child(odd) {
+    color: white; 
+}
+tr:nth-child(even) {
+    background-color: aquamarine;
+    color: black; 
+}
